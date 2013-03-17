@@ -2,4 +2,9 @@
 layout: default
 title: Home
 ---
-My GitHub Page
+
+# Latvian Developers Network
+
+{% for post in site.posts %}
+* [{{ post.title }}]({{ post.url}}) (*{{ post.date | date_to_string }}*)
+{% endfor %}
