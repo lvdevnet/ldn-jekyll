@@ -3,8 +3,6 @@ layout: post
 title: 'Coding Dojo: Haskell'
 ---
 
-# {{ page.title }}
-
 1. Downoad Haskell.
 2. Learn Haskell.
 3. Fly!

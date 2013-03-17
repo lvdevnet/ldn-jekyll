@@ -3,8 +3,6 @@ layout: post
 title: 'Hackathon: JavaScript with CouchDB'
 ---
 
-# {{ page.title }}
-
 CouchDB is a simple tool. Simple tools can be used creatively.
 
 We'll have a small task to implement for our entertainment. In the process you'll touch the core concepts of CouchDB, such as:

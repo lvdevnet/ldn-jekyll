@@ -3,8 +3,6 @@ layout: post
 title: 'Coding Dojo: Lua with LÖVE'
 ---
 
-# {{ page.title }}
-
 [Lua][lua] is a lightweight and extensible language that is designed to be embedded for scripting. Which is why it's very popular [in game dev][use-cases]. This language is a good and simple example of how to do a lot when you have a little.
 
 [LÖVE][love] is a spiffy framework for 2D games in Lua. It's cross-platform, performant, completely free, and great for [small games and prototyping][games].
